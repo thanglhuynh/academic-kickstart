@@ -10,31 +10,26 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Signal Processing (quantization, sparse recovery)",
+    "Machine Learning (dimensionality reduction, matrix sketching, randomized algorithms)",
+    "Random Matrix Theory"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Mathematics"
+  institution = "New York University"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Mathematics"
+  institution = "St Lawrence University"
+  year = 2010
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a S.E.W. assistant professor (aka postdoc) in the Department of Mathematics at University of California at San Diego. I received my B.Sc. in Mathematics from St Lawrence University in 2010 and Ph.D. from Courant Institute, New York University, in 2016.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interests broadly fall within mathematical signal processing and machine learning. More specifically, I have studied quantization theory and analog-to-digital conversion methods with particular emphasis on the settings of frame theory, compressive sampling, and phase retrieval. I have utilized techniques from applied harmonic analysis, probability theory, and optimization algorithms to attack problems from such settings. I am especially fond of dimensionality reduction and randomized algorithms.
