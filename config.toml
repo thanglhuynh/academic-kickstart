@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Thang Huynh"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -266,17 +266,17 @@ enableGitInfo = false
     link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
-    icon = "twitter"
+    icon = ""
     icon_pack = "fab"
     link = "https://twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?user=uFaMXD4AAAAJ"
 
   [[params.social]]
-    icon = "github"
+    icon = ""
     icon_pack = "fab"
     link = "https://github.com/gcushen"
 
