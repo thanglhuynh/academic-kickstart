@@ -32,4 +32,6 @@ weight = 5
 
 I am a S.E.W. assistant professor (aka postdoc) in the Department of Mathematics at University of California at San Diego. I received my B.Sc. in Mathematics from St Lawrence University in 2010 and Ph.D. from Courant Institute, New York University, in 2016.
 
-My research interests broadly fall within mathematical signal processing and machine learning. More specifically, I have studied quantization theory and analog-to-digital conversion methods with particular emphasis on the settings of frame theory, compressive sampling, and phase retrieval. I have utilized techniques from applied harmonic analysis, probability theory, and optimization algorithms to attack problems from such settings. I am especially fond of dimensionality reduction and randomized algorithms.
+My research interests broadly fall within mathematical signal processing and machine learning. More specifically, I have studied quantization theory and analog-to-digital conversion methods with particular emphasis on the settings of frame theory, compressed sensing, and phase retrieval. I have utilized techniques from random matrix theory, applied harmonic analysis, and optimization to attack problems from such settings. 
+
+I am especially fond of dimensionality reduction and randomized algorithms.
