@@ -262,9 +262,9 @@ enableGitInfo = false
     link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
-    icon = ""
+    icon = "linkedin"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://www.linkedin.com/in/thanglehuynh/"
 
   [[params.social]]
     icon = "google-scholar"
