@@ -1,7 +1,6 @@
 +++
 title = "Fast binary embeddings, and quantized compressed sensing with structured matrices"
 date = 2018-07-18T00:00:00
-draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Thang Huynh", "Rayan Saab"]
@@ -26,7 +25,7 @@ abstract = "This paper deals with two related problems, namely distance-preservi
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
