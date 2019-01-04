@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/1801.08639.pdf"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/1801.08639"
 url_code = ""
 url_dataset = ""
 url_project = ""
