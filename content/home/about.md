@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Mathematics"
-  institution = "[Courant Institute, New York University](https://cims.nyu.edu/)"
+  institution = "Courant Institute, New York University"
   year = 2016
 
 [[education.courses]]
