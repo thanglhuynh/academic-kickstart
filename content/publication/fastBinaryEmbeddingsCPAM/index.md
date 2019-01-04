@@ -22,7 +22,7 @@ publication = "To Appear in *Communications on Pure and Applied Mathematics*."
 publication_short = "To Appear in *CPAM*"
 
 # Abstract and optional shortened version.
-abstract = "This paper deals with two related problems, namely distance-preserving binary embeddings and quantization for compressed sensing. First, we propose fast methods to replace points from a subset $X \subset R^n$, , associated with the Euclidean metric, with points in the cube and we associate the cube with a pseudo-metric that approximates Euclidean distance among points in $X$."
+abstract = "This paper deals with two related problems, namely distance-preserving binary embeddings and quantization for compressed sensing. First, we propose fast methods to replace points from a subset $X \\subset R^n$, , associated with the Euclidean metric, with points in the cube and we associate the cube with a pseudo-metric that approximates Euclidean distance among points in $X$."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
