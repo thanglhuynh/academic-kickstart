@@ -65,11 +65,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "tlh007@ucsd.edu"
   address = "Department of Mathematics, UC San Diego, California, 92093, USA"
-  office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
-  Otherwise email to book an appointment
-  """
+  office_hours = ""
   phone = ""
   skype = ""
   telegram = ""
