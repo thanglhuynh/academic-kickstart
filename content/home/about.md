@@ -35,4 +35,4 @@ I am a S.E.W. assistant professor (aka postdoc) in the Department of Mathematics
 
 My research interests broadly fall within mathematical signal processing and machine learning. More specifically, I have studied quantization theory and analog-to-digital conversion methods with particular emphasis on the settings of frame theory, compressed sensing, and phase retrieval. I have utilized techniques from random matrix theory, applied harmonic analysis, and optimization to attack problems from such settings. 
 
-I am especially fond of dimensionality reduction and randomized algorithms.
+I am especially fond of dimensionality reduction and data compression.
