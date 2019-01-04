@@ -26,11 +26,6 @@ weight = 5
   institution = "St Lawrence University"
   year = 2010
   
-[[education.courses]]
-  course = "A.A. in Mathematics"
-  institution = "De Anza College"
-  year = 2008
-
  
 +++
 
