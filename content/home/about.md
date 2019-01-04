@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Mathematics"
-  institution = "New York University"
+  institution = "[Courant Institute, New York University](https://cims.nyu.edu/)"
   year = 2016
 
 [[education.courses]]
@@ -31,7 +31,7 @@ weight = 5
 
 # Biography
 
-I am a S.E.W. assistant professor (aka postdoc) in the Department of Mathematics at University of California at San Diego. I received my Ph.D. in Mathematics from [Courant Institute, New York University](https://cims.nyu.edu/) in 2016, and my B.Sc. in Mathematics from St Lawrence University in 2010.
+I am a S.E.W. assistant professor (aka postdoc) in the Department of Mathematics at University of California at San Diego. I received my Ph.D. in Mathematics from [Courant Institute, New York University](https://cims.nyu.edu/) in 2016, and my B.Sc. in Mathematics from [St Lawrence University](https://www.stlawu.edu/math-computer-science-and-statistics) in 2010.
 
 My research interests broadly fall within mathematical signal processing and machine learning. More specifically, I have studied quantization theory and analog-to-digital conversion methods with particular emphasis on the settings of frame theory, compressed sensing, and phase retrieval. I have utilized techniques from random matrix theory, applied harmonic analysis, and optimization to attack problems from such settings. 
 
