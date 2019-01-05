@@ -22,7 +22,6 @@ Email: [jis254@ucsd.edu][jiajieemail]
 
 #### [Syllabus][math152Syl]
 
-[math152Syl]:
 
 --- 
 
@@ -32,7 +31,6 @@ Email: [jis254@ucsd.edu][jiajieemail]
 
 #### [Homework][math152HW]
 
-[math152HW]:
 ---   
 
 #### Exams
@@ -42,7 +40,6 @@ Email: [jis254@ucsd.edu][jiajieemail]
 
 #### [Calendar][math152Cal]
 
-[math152Cal]:
 ---  
 
 #### Course Resources
