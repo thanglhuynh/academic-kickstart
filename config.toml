@@ -265,6 +265,12 @@ enableGitInfo = false
     icon = "linkedin"
     icon_pack = "fab"
     link = "https://www.linkedin.com/in/thanglehuynh/"
+  
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "files/Thang_CV_NewVersion.pdf"
+
 
   [[params.social]]
     icon = "google-scholar"
