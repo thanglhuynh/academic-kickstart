@@ -62,7 +62,8 @@ within the specified window of time; no regrade requests will be accepted after 
 
 **Grading**: Your course grade will be determined by your cumulative average at the end of the term and will be based on the 
 following scale:
-<center>        
+<center>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td class="tableBody"><b>A+</b></td>
 <td class="tableBody"><b>A</b></td>
@@ -87,6 +88,7 @@ following scale:
 <td class="tableBody"><b>70</b></td>
 
 </tr>
+</table>
 </center>
 
 **Note**:  The above scale is guaranteed: for example, if your cumulative average is 80, your final grade will be at least B-. However, your instructor may adjust the above scale to be more generous. 
