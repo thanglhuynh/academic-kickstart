@@ -16,7 +16,7 @@ weight = 60
 +++
 
 
-  * MATH 18 Winter 2019: Linear Algebra
+  * [MATH 18 Winter 2019: Linear Algebra](https://www.thanghuynh.io/teaching/math18_winter19/index.html)
 
 
 
