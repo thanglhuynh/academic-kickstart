@@ -15,5 +15,8 @@ weight = 60
 
 +++
 
+  * MATH 18 Winter 2019: Linear Algebra
+
+
 
 
