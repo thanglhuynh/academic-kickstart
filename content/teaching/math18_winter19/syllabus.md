@@ -21,7 +21,7 @@ title = "Math 18: Syllabus"
 
 **Reading**:  Reading the sections of the textbook corresponding to the assigned homework exercises is considered part of the homework assignment; you are responsible for material in the assigned reading whether or not it is discussed in the lecture.
 
-**Homework**:  Homework is a very important part of the course and in order to fully master the topics it is essential that you work carefully on every assignment and try your best to complete every problem. We will have two different kinds of homework assignments in this class: online homework (which will be graded) and "paper-and-pen" homework (which will not be graded).
+**Homework**:  Homework is a very important part of the course and in order to fully master the topics it is essential that you work carefully on every assignment and try your best to complete every problem. We will have two different kinds of homework assignments in this class: online homework (which will be graded) and "paper-and-pen" homework (which will not be graded).  
   * Online homework will be assigned through MyMathLab and will be accessible via TritonEd.
     * Unless otherwise stated, you have unlimited attempts at each homework problem.
     * Your total homework score will be based on the total possible homework points available; no homework assignment scores will be dropped at the end of the quarter.
