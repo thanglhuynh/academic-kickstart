@@ -4,6 +4,17 @@ title = "MATH 18 Winter 2019: Linear Algebra"
 +++
 
 ---
+## [Syllabus -- Click Here](https://www.thanghuynh.io/teaching/math18_winter19/syllabus/)
+
+## [Calendar -- Click Here](https://www.thanghuynh.io/teaching/math18_winter19/calendar/)
+
+## [Piazza -- Click Here](piazza.com/ucsd/winter2019/math18lecturec/home)
+
+## [Online Homework -- Click Here](https://tritoned.ucsd.edu/)
+
+## [Offline Homework -- Click Here](https://www.thanghuynh.io/teaching/math18_winter19/homework/)
+
+---
 ## Announcements  
 
 --- 
@@ -14,7 +25,7 @@ title = "MATH 18 Winter 2019: Linear Algebra"
 There are also accompanying textbook homework problems, which can be found [here](https://www.thanghuynh.io/teaching/math18_winter19/homework/). These problems are not to be turned in and will not be graded; however, it is often the case that exam questions may be based on problems like the ones you'll find here, so it is to your benefit to work on them!
   * **MATLAB**: One component of our coursework is a series of [MATLAB](http://www.math.ucsd.edu/~math18/) exercises. You will sign up for a MATLAB section and submit your MATLAB work through gradescope. All information releventt to the MATLAB component of Math 18 can be found [here](http://www.math.ucsd.edu/~math18/).
   * **Exams**: There will be two midterm exams and a final exam; Check the Calendar for dates, times, and locations. Note that there will be no make-up dates for the midterms or the final exam. They were scheduled before you signed up for the class. If you cannot take the final exam at its scheduled time, you should not enroll in this class.  
-  * **Piazza**: We will use Piazza, an online discussion board. It will allow you to post messages (openly or anonymously) and answer posts made by your fellow students, about course content, homework, exams, etc. The instructors will also monitor and post to Piazza regularly. You can sign up here if you are not already signed up. 
+  * **Piazza**: We will use [Piazza](piazza.com/ucsd/winter2019/math18lecturec/home), an online discussion board. It will allow you to post messages (openly or anonymously) and answer posts made by your fellow students, about course content, homework, exams, etc. The instructors will also monitor and post to Piazza regularly. You can sign up ]here](piazza.com/ucsd/winter2019/math18lecturec) if you are not already signed up. 
 
 
 --- 
