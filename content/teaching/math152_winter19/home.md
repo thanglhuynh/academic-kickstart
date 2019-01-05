@@ -45,7 +45,7 @@ Email: [jis254@ucsd.edu][jiajieemail]
 [math152Cal]:
 ---  
 
-#### [Course Resources]  
+#### Course Resources
 
 [Syllabus][math152Syl] You are responsible for knowing the information and policies in the syllabus.  
 [Calendar][math152Cal] Important dates for the course in calendar format.  
