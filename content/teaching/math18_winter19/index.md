@@ -8,6 +8,10 @@ title = "MATH 18 Winter 2019: Linear Algebra"
 
 --- 
 ## Course Information  
+  * **Textbook**: The required textbook for this course is *Linear Algebra and its Applications*, w/ MyMathLab, by David C. Lay, Steven R. Lay, and Judi J. McDonald. This is the textbook available at the UC San Diego bookstore. If you choose to purchase it elsewhere, be aware that **you need MyMathLab access**, which is included with the bookstore version of the textbook but not with all versions. **Note**: you may also forego the physical textbook and just purchase a MyMathLab access code directly from MyMathLab the first time you login (see TritonEd below); this includes access to the ebook version of the textbook.  
+  * **TritonEd & MyMathLab**: We will use [TritonEd](https://tritoned.ucsd.edu/) for two purposes in this class: to disseminate grades, and as a portal to MyMathLab, the online homework system associated to the textbook, through which you will submit your homework. In the course page on TritonEd, you can click on MyLab in the right tab. There you will see links to Pearson MyMathLab. The first time you login, you will be prompted to create an account with Pearson, and then enter the access code that came with your textbook (or purchase one here). This is a one-time procedure; after that every time you login will give you direct access to MyMathLab. There you will find all currently available homework assignments, along with their listed due dates. You will also have access to the ebook version of the textbook here (for the lifetime of the current edition).
+
+
 
 --- 
 ## Instructional Staff
