@@ -22,8 +22,8 @@ title = "Math 18: Syllabus"
 **Reading**:  Reading the sections of the textbook corresponding to the assigned homework exercises is considered part of the homework assignment; you are responsible for material in the assigned reading whether or not it is discussed in the lecture.
 
 **Homework**:  Homework is a very important part of the course and in order to fully master the topics it is essential that you work carefully on every assignment and try your best to complete every problem. We will have two different kinds of homework assignments in this class: online homework (which will be graded) and "paper-and-pen" homework (which will not be graded).  
-  * Online homework will be assigned through MyMathLab and will be accessible via TritonEd.
-    * Unless otherwise stated, you have unlimited attempts at each homework problem.
+  * Online homework will be assigned through MyMathLab and will be accessible via TritonEd. 
+    * Unless otherwise stated, you have unlimited attempts at each homework problem. 
     * Your total homework score will be based on the total possible homework points available; no homework assignment scores will be dropped at the end of the quarter.
     * Homework should be turned in on time. Extensions may be given in some cases with a small window after the deadline, but typically homework turned in after the deadline will score at most 50% of the total points on the assignment.
   * The "paper-and-pen" homework assignments will be announced on the course homework page. These assignments will not be turned in and will not be graded; however, you are responsible for the ideas illustrated by these exercises and exam questions could be based on them.
@@ -54,7 +54,7 @@ You will be able to request a regrade directly from your TA for a specified wind
 within the specified window of time; no regrade requests will be accepted after the deadline.
 
 **Administrative Deadline**:  Your scores for all graded work will be posted to TritonEd.  
-  * It is your responsibility to check your scores and contact your TA **before the end of the 10th week** of the quarter to resolve recording errors.
+  * It is your responsibility to check your scores and contact your TA **before the end of the 10th week** of the quarter to resolve recording errors. 
   * Questions regarding missing or incorrectly recorded scores **will not be considered after the last day of instruction**.
 
 **Grading**: Your course grade will be determined by your cumulative average at the end of the term and will be based on the 
