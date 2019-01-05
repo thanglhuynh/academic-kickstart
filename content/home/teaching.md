@@ -17,6 +17,7 @@ weight = 60
 
 
   * [MATH 18 Winter 2019: Linear Algebra](https://www.thanghuynh.io/teaching/math18_winter19/home.html)
+  * [MATH 152 Winter 2019: Topics in Data Science](https://www.thanghuynh.io/teaching/math152_winter19/home.html)
 
 
 
