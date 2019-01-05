@@ -14,9 +14,6 @@ title = "Math 152: Topics in Data Science"
 
 **Teaching Assistants:**   
 
-*Jiajie Shi*  
-Email: [jis254@ucsd.edu][jiajieemail]    
-
 
 --- 
 
