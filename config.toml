@@ -313,6 +313,12 @@ enableGitInfo = false
   weight = 300
   parent = "teaching"
 
+[[menu.main]]
+  name = "Math 152"
+  url = "teaching/math152_winter19/home/"
+  weight = 301
+  parent = "teaching"
+
 
 [[menu.main]]
   name = "Contact"
