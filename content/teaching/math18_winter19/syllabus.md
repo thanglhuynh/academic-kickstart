@@ -58,10 +58,11 @@ within the specified window of time; no regrade requests will be accepted after 
   * Questions regarding missing or incorrectly recorded scores **will not be considered after the last day of instruction**.
 
 **Grading**: Your course grade will be determined by your cumulative average at the end of the term and will be based on the 
-following scale:
-| A+ 	| A  	| A- 	| B+ 	| B  	| B- 	| C+ 	| C  	| C- 	|
-|----	|----	|----	|----	|----	|----	|----	|----	|----	|
-| 97 	| 93 	| 90 	| 87 	| 83 	| 80 	| 77 	| 73 	| 70 	|
+following scale:  
+
+| A+ 	| A  	| A- 	| B+ 	| B  	| B- 	| C+ 	| C  	| C- 	|  
+|----	|----	|----	|----	|----	|----	|----	|----	|----	|  
+| 97 	| 93 	| 90 	| 87 	| 83 	| 80 	| 77 	| 73 	| 70 	|  
 
 
 
