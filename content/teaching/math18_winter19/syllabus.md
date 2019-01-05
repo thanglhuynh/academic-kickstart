@@ -53,13 +53,12 @@ enroll in this class if you cannot take the final examination at its scheduled t
 You will be able to request a regrade directly from your TA for a specified window of time.  Be sure to make your request 
 within the specified window of time; no regrade requests will be accepted after the deadline.
 
-**Administrative Deadline**:  Your scores for all graded work will be posted to TritonEd.
+**Administrative Deadline**:  Your scores for all graded work will be posted to TritonEd.  
   * It is your responsibility to check your scores and contact your TA **before the end of the 10th week** of the quarter to resolve recording errors.
   * Questions regarding missing or incorrectly recorded scores **will not be considered after the last day of instruction**.
 
 **Grading**: Your course grade will be determined by your cumulative average at the end of the term and will be based on the 
-following scale:  
-
+following scale:
 <center>        
 <table border="1" cellspacing="0" cellpadding="5">
 <tbody>
