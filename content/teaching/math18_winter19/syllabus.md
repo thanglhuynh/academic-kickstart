@@ -60,9 +60,36 @@ within the specified window of time; no regrade requests will be accepted after 
 **Grading**: Your course grade will be determined by your cumulative average at the end of the term and will be based on the 
 following scale:  
 
-| A+ 	| A  	| A- 	| B+ 	| B  	| B- 	| C+ 	| C  	| C- 	|  
-|----	|----	|----	|----	|----	|----	|----	|----	|----	|  
-| 97 	| 93 	| 90 	| 87 	| 83 	| 80 	| 77 	| 73 	| 70 	|  
+<center>        
+<table border="1" cellspacing="0" cellpadding="5">
+<tbody>
+<tr>
+<td class="tableBody"><b>A+</b></td>
+<td class="tableBody"><b>A</b></td>
+<td class="tableBody"><b>A-</b></td>
+<td class="tableBody"><b>B+</b></td>
+<td class="tableBody"><b>B</b></td>
+<td class="tableBody"><b>B-</b></td>
+<td class="tableBody"><b>C+</b></td>
+<td class="tableBody"><b>C</b></td>
+<td class="tableBody"><b>C-</b></td>
+
+</tr>
+<tr>
+<td class="tableBody"><b>97</b></td>
+<td class="tableBody"><b>93</b></td>
+<td class="tableBody"><b>90</b></td>
+<td class="tableBody"><b>87</b></td>
+<td class="tableBody"><b>83</b></td>
+<td class="tableBody"><b>80</b></td>
+<td class="tableBody"><b>77</b></td>
+<td class="tableBody"><b>73</b></td>
+<td class="tableBody"><b>70</b></td>
+
+</tr>
+</tbody>       
+</table>
+</center>
 
 
 
