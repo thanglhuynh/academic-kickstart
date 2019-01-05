@@ -24,7 +24,6 @@ title = "Math 18: Syllabus"
 **Homework**:  Homework is a very important part of the course and in order to fully master the topics it is essential that you work carefully on every assignment and try your best to complete every problem. We will have two different kinds of homework assignments in this class: online homework (which will be graded) and "paper-and-pen" homework (which will not be graded). 
 
   * Online homework will be assigned through MyMathLab and will be accessible via TritonEd.
-  
     * Unless otherwise stated, you have unlimited attempts at each homework problem. 
     * Your total homework score will be based on the total possible homework points available; no homework assignment scores will be dropped at the end of the quarter.
     * Homework should be turned in on time. Extensions may be given in some cases with a small window after the deadline, but typically homework turned in after the deadline will score at most 50% of the total points on the assignment.
@@ -46,6 +45,7 @@ with handwritten notes (on both sides) with you to each midterm exam; no other n
 *No calculators, phones, or other electronic devices will be allowed during the midterm exams. There will be no makeup exams.*
 
 **Final Examination**:  The final examination will be held at the date and time stated above.
+  
   * It is your responsibility to ensure that you do not have a schedule conflict involving the final examination; you should not 
 enroll in this class if you cannot take the final examination at its scheduled time.
   * You may bring two 8.5 by 11 inch sheets of paper with handwritten notes (on both sides) with you to the final examination; no other notes (or books) will be allowed.
@@ -56,6 +56,7 @@ You will be able to request a regrade directly from your TA for a specified wind
 within the specified window of time; no regrade requests will be accepted after the deadline.
 
 **Administrative Deadline**:  Your scores for all graded work will be posted to TritonEd.  
+  
   * It is your responsibility to check your scores and contact your TA **before the end of the 10th week** of the quarter to resolve recording errors. 
   * Questions regarding missing or incorrectly recorded scores **will not be considered after the last day of instruction**.
 
