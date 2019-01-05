@@ -305,13 +305,13 @@ enableGitInfo = false
   name = "Teaching"
   url = "#teaching"
   weight = 3
-  identifier = "something-teaching"
+  identifier = "teaching"
 
 [[menu.main]]
   name = "Math 18"
-  url = "#teaching/math18_winter19/"
-  weight = 100
-  parent = "something-teaching"
+  url = "teaching/math18_winter19/home/"
+  weight = 300
+  parent = "teaching"
 
 
 [[menu.main]]
