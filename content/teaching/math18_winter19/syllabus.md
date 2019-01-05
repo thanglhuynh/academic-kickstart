@@ -90,6 +90,23 @@ following scale:
 </table>
 </center>
 
+**Note**:  The above scale is guaranteed: for example, if your cumulative average is 80, your final grade will be at least B-. However, your instructor may adjust the above scale to be more generous. 
+
+Your cumulative average will be the best of the following two weighted averages: 
+  * 10% MATLAB (5% homework and 5% quiz, or 10% homework, whichever is greater), 10% Homework,  20% Midterm Exam I,  20% Midterm Exam II,  40% Final Exam 
+  * 10% MATLAB (5% homework and 5% quiz, or 10% homework, whichever is greater), 10% Homework,  20% Best Midterm Exam,  60% Final Exam 
+
+In addition,  you must pass the final examination in order to pass the course.  Note: Since there are no makeup exams, if you miss a midterm exam for any reason, then your course grade will be computed with the second option. There are no exceptions; this grading scheme is intended to accommodate emergencies that require missing a midterm exam.
+
+**Academic Integrity**:  UC San Diego's [code of academic integrity](https://students.ucsd.edu/academics/academic-integrity/index.html) outlines the expected academic honesty of all students and faculty, and details the consequences for academic dishonesty. The main issues are cheating and plagiarism, of course, for which we have a zero-tolerance policy. (Penalties for these offenses always include assignment of a failing grade in the course, and usually involve an administrative penalty, such as suspension or expulsion, as well.) However, academic integrity also includes things like giving credit where credit is due, and treating your peers respectfully in class. In addition, here are a few of our expectations for etiquette in and out of class.
+
+  * **Entering/exiting class**: Please arrive on time and stay for the entire class/section period. If, despite your best efforts, you arrive late, please enter quietly through the rear door and take a seat near where you entered. Similarly, in the rare event that you must leave early (e.g. for a medical appointment), please sit close to the rear exit and leave as unobtrusively as possible.
+  * **Noise and common courtesy**: When class/section begins, please stop your conversations. Wait until class/section is over before putting your materials away in your backpack, standing up, or talking to friends. Do not disturb others by engaging in disruptive behavior. Disruption interferes with the learning environment and impairs the ability of others to focus, participate, and engage. 
+  * **Electronic devices**: Please do not use devices (such as cell phones, laptops, tablets, iPods) for non-class-related matters while in class/section. No visual or audio recording is allowed in class/section without prior permission of the instructor (whether by camera, cell phone, or other means). 
+  * **E-mail etiquette**: You are expected to write as you would in any professional correspondence. E-mail communication should be courteous and respectful in manner and tone. Please do not send e-mails that are curt or demanding.
+
+**Accommodations**: Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter issued by the Office for Students with Disabilities (OSD) which is located in University Center 202 behind Center Hall. Students are required to present their AFA letters to the instructor (please make arrangements to contact your instructor privately) and to the OSD Liaison in the department in advance (by the end of Week 2, if possible) so that accommodations may be arranged. For more information, see [here](http://disabilities.ucsd.edu/).
+
 
 
 
