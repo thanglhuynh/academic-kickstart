@@ -18,6 +18,13 @@ title = "Math 152: Topics in Data Science"
 
 #### [Syllabus -- Click Here](https://www.thanghuynh.io/teaching/math152_winter19/syllabus)
 
+---
+#### Catalog Description: 
+We will cover among other topics (tentative): sampling, finding frequent items, counting distinct elements, general frequency moment estimation, finding frequent item sets, dimensionality reduction, and matrix approximation.
+
+Textbooks: There is no course textbook. We will primarily be following Edo Liberty's course notes, and Jelani Nelson's. I will post a reference for each lecture.
+
+
 --- 
 #### [Piazza -- Click Here](https://www.piazza.com/ucsd/winter2019/math152)
 
