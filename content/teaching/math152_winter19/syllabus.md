@@ -11,22 +11,26 @@ title = "Math 152: Topics in Data Science"
 
 **Credit Hours:** 4 units
 
-**Prerequisite:** Math 20D and Math 18 (or Math 20F)
+**Prerequisite:** Math 20D and Math 18 (or Math 20F). I highly recommend that students are familiar with probability theory, combinatorics, and linear algebra. The class will attempt to be self contained (but this is not always possible). Moreover, the class is *theoretical*, and is devoted to ideas, algorithms, and proofs. **Students who are interested in explicit data science applications should not register.**
 
-**Catalog Description:** We will study mathematical aspects of dimensionality reduction techinques (e.g., PCA and SVD), and applications of linear algebra to finding similar items and recommendation systems. 
+**Catalog Description:** We will cover among other topics (tentative): sampling, finding frequent items, counting distinct elements, general frequency moment estimation, finding frequent item sets, dimensionality reduction, and matrix approximation.
 
-**Textbooks:** (Optional) *Mining of Massive Datasets* by Jure Leskovec, Anand Rajaraman, Jeff Ullman. The book can be downloaded
-[here][mmds]. Note that this is a computer science book. I will also provide lecture notes.
+**Textbooks:** The following books are optional. I will also provide lecture notes.
 
-*Foundations of Data Science* by Avrim Blum, John Hopcroft, and Ravindran Kannan. You can download it [here][fds] 
-*Matrix Methods in Data Mining and Pattern Recognition* by Lars Eldén. You can download it [here if you are on campus][lars]
-
+  * *Mining of Massive Datasets* by Jure Leskovec, Anand Rajaraman, Jeff Ullman. The book can be downloaded [here][mmds]. 
+  * *Foundations of Data Science* by Avrim Blum, John Hopcroft, and Ravindran Kannan. You can download it [here][fds] 
+  * *Matrix Methods in Data Mining and Pattern Recognition* by Lars Eldén. You can download it [here if you are on campus][lars]
 
 [mmds]:http://www.mmds.org/
 [fds]:https://www.cs.cornell.edu/jeh/book.pdf
 [lars]:https://epubs.siam.org/doi/book/10.1137/1.9780898718867
 
-**Material Covered:**  We shall cover parts of Chapters 11, 3, and 9 of the text.  
+**Related courses at other schools**
+
+  * [Streaming Algorithms](http://people.cs.georgetown.edu/jthaler/COSC548.html): Justin Thaler (Georgetown University)
+  * [Sketching Algorithms for Big Data](https://www.sketchingbigdata.org/): Jelani Nelson (Harvard University)
+  * [Data Mining](https://edoliberty.github.io/datamining2013a.html): Edo Liberty (Tel Aviv University)
+  * [Mining Massive Data Sets](https://web.stanford.edu/class/cs246/): Jure Leskovec (Stanford)
 
 **Lecture:** Attending the lecture is a fundamental part of the course; you are responsible for all material presented in the lecture whether or not it is discussed in the textbook. You should expect questions on the exams that will test your understanding of concepts discussed in the lecture.
 
@@ -35,12 +39,11 @@ title = "Math 152: Topics in Data Science"
 **Homework:** Homework will be assigned each week. You should solve these homework problems and discuss them with your TAs
 during discussion sessions. 
 
-**Quizzes:** There will be two quizzes. Most of the problems on these quizzes will be picked from the homework assignments.
-You are not allowed to use a cheatsheet during quiz time. *There will be no makeup quizzes.*
-
-**Exams:** There will be one midterm exam and a final exam. You may use one 8.5 x 11 inch page of handwritten notes. 
+**Exams:** There will be two midterm exams and a final exam. You may use one 8.5 x 11 inch page of handwritten notes. 
 (Both sides are okay, but no photocopies are allowed.) You may not use any other notes or any electronic devices. 
 Please bring your student ID to the exams. *There will be no makeup exams.*
+
+**Midterm Exams:** There will be two midterm exams. The first midterm will be on *January 30*, and the second on *February 27* in class. Most of the problems on these quizzes will be picked from the homework assignments. 
 
 **Final Exam:** It is your responsibility to ensure that you do not have a schedule conflict involving the final examination.
 You should not enroll in this class if you cannot sit for the final examination at its scheduled time. 
@@ -92,11 +95,12 @@ will be based on the following scale:
 </table>
 </center>
 
+I may adjust the scale to be more lenient, but guarantee that the grade corresponding to a given percentage will not be lower than specified by the above scale. 
 
+Your cumulative average will be the best of the following two weighted averages:  
 
-I may adjust the scale to be more lenient, but guarantee that the grade corresponding to a given percentage will not be lower than specified by the above scale. Your cumulative average will be the following weighted average:  
-
-* 20% Quizzes,  30% Midterm, 50% Final Exam
+* 25% Midterm 1,  25% Midterm 2, 50% Final Exam
+* 50% Best Midterm, 50% Final Exam
 
 You must pass the final examination in order to pass the course. 
 
