@@ -17,7 +17,7 @@ title = "Math 152: Topics in Data Science"
 
 --- 
 
-#### [Syllabus][math152Syl]
+#### [Syllabus](teaching/math152_winter19/syllabus)
 
 
 --- 
