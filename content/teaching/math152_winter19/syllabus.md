@@ -17,6 +17,7 @@ title = "Math 152: Topics in Data Science"
 
 **Textbooks:** The following books are optional. I will also provide lecture notes.
 
+  * *Data Stream Algorithms* by Amit Chakrabarti. This course note can be downloaded [here](https://www.cs.dartmouth.edu/~ac/Teach/CS49-Fall11/Notes/lecnotes.pdf)
   * *Mining of Massive Datasets* by Jure Leskovec, Anand Rajaraman, Jeff Ullman. The book can be downloaded [here][mmds]. 
   * *Foundations of Data Science* by Avrim Blum, John Hopcroft, and Ravindran Kannan. You can download it [here][fds] 
   * *Matrix Methods in Data Mining and Pattern Recognition* by Lars Eldén. You can download it [here if you are on campus][lars]
