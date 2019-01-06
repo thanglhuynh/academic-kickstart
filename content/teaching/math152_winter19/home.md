@@ -22,7 +22,7 @@ title = "Math 152: Topics in Data Science"
 #### Catalog Description: 
 We will cover among other topics (tentative): sampling, finding frequent items, counting distinct elements, general frequency moment estimation, finding frequent item sets, dimensionality reduction, and matrix approximation.
 
-Textbooks: There is no course textbook. We will primarily be following Edo Liberty's course notes, and Jelani Nelson's. I will post a reference for each lecture.
+Textbooks: There is no course textbook. We will primarily be following [Edo Liberty's course notes](https://edoliberty.github.io/datamining2013a.html), and [Jelani Nelson's](https://www.sketchingbigdata.org/). I will post a reference for each lecture.
 
 
 --- 
@@ -33,7 +33,7 @@ Textbooks: There is no course textbook. We will primarily be following Edo Liber
 
 ---
 
-#### [Homework - Click Here](https://www.thanghuynh.io/teaching/math152_winter19/)
+#### [Homework - Click Here](https://www.thanghuynh.io/teaching/math152_winter19/homework/)
 
 ---   
 
@@ -48,7 +48,7 @@ Textbooks: There is no course textbook. We will primarily be following Edo Liber
 #### Course Resources
 
 [Syllabus](https://www.thanghuynh.io/teaching/math152_winter19/syllabus) You are responsible for knowing the information and policies in the syllabus.  
-[Homework](https://www.thanghuynh.io/teaching/math152_winter19/)
+[Homework](https://www.thanghuynh.io/teaching/math152_winter19/homework/)
 
 
 ---  
