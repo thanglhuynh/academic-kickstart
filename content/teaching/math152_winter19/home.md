@@ -14,11 +14,9 @@ title = "Math 152: Topics in Data Science"
 
 **Teaching Assistants:**   
 
-
 --- 
 
 #### [Syllabus](https://www.thanghuynh.io/teaching/math152_winter19/syllabus)
-
 
 --- 
 
@@ -26,24 +24,22 @@ title = "Math 152: Topics in Data Science"
 
 ---
 
-#### [Homework][math152HW]
+#### [Homework](https://www.thanghuynh.io/teaching/math152_winter19/)
 
 ---   
 
 #### Exams
 
-
----
-
-#### [Calendar][math152Cal]
+  * Midterm 1: January 30
+  * Midterm 2: February 7
+  * Final: March 18
 
 ---  
 
 #### Course Resources
 
 [Syllabus](https://www.thanghuynh.io/teaching/math152_winter19/syllabus) You are responsible for knowing the information and policies in the syllabus.  
-[Calendar][math152Cal] Important dates for the course in calendar format.  
-[Homework][math152HW]  
+[Homework]((https://www.thanghuynh.io/teaching/math152_winter19/)
 
 
 ---  
