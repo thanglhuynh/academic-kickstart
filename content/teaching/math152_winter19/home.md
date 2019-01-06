@@ -41,13 +41,10 @@ title = "Math 152: Topics in Data Science"
 
 #### Course Resources
 
-[Syllabus][math152Syl] You are responsible for knowing the information and policies in the syllabus.  
+[Syllabus](https://www.thanghuynh.io/teaching/math152_winter19/syllabus) You are responsible for knowing the information and policies in the syllabus.  
 [Calendar][math152Cal] Important dates for the course in calendar format.  
 [Homework][math152HW]  
 
-[math152Cal]:http://thanghuynh.org/teaching/math152_s18_cal.html
-[math152Syl]:http://thanghuynh.org/teaching/math152_syllabus.html
-[math152HW]:http://thanghuynh.org/teaching/math152_hw.html
 
 ---  
 
