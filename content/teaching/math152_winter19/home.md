@@ -39,7 +39,7 @@ title = "Math 152: Topics in Data Science"
 #### Course Resources
 
 [Syllabus](https://www.thanghuynh.io/teaching/math152_winter19/syllabus) You are responsible for knowing the information and policies in the syllabus.  
-[Homework]((https://www.thanghuynh.io/teaching/math152_winter19/)
+[Homework](https://www.thanghuynh.io/teaching/math152_winter19/)
 
 
 ---  
