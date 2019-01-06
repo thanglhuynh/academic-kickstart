@@ -16,15 +16,17 @@ title = "Math 152: Topics in Data Science"
 
 --- 
 
-#### [Syllabus](https://www.thanghuynh.io/teaching/math152_winter19/syllabus)
+#### [Syllabus -- Click Here](https://www.thanghuynh.io/teaching/math152_winter19/syllabus)
 
 --- 
+#### [Piazza -- Click Here](https://www.piazza.com/ucsd/winter2019/math152)
 
+---
 #### Announcements:   
 
 ---
 
-#### [Homework](https://www.thanghuynh.io/teaching/math152_winter19/)
+#### [Homework - Click Here](https://www.thanghuynh.io/teaching/math152_winter19/)
 
 ---   
 
