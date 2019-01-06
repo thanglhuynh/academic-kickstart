@@ -13,7 +13,7 @@ title = "Math 152: Topics in Data Science"
 
 **Prerequisite:** Math 20D and Math 18 (or Math 20F). I highly recommend that students are familiar with probability theory, combinatorics, and linear algebra. The class will attempt to be self contained (but this is not always possible). Moreover, the class is *theoretical*, and is devoted to ideas, algorithms, and proofs. **Students who are interested in explicit data science applications should not register.**
 
-**Catalog Description:** We will cover among other topics (tentative): sampling, finding frequent items, counting distinct elements, general frequency moment estimation, finding frequent item sets, dimensionality reduction, and matrix approximation.
+**Catalog Description:** We will cover among other topics (tentative): sampling, finding frequent items, counting distinct elements, general frequency moment estimation, dimensionality reduction, and matrix approximation.
 
 **Textbooks:** There is no course textbook. We will primarily be following [Edo Liberty's course notes](https://edoliberty.github.io/datamining2013a.html), and [Jelani Nelson's](https://www.sketchingbigdata.org/). I will post a reference for each lecture.
 
