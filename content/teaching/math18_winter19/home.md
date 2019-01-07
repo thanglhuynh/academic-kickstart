@@ -4,6 +4,8 @@ title = "MATH 18 Winter 2019: Linear Algebra"
 +++
 
 ---
+# Quick Links:
+
 ## [Syllabus -- Click Here](https://www.thanghuynh.io/teaching/math18_winter19/syllabus/)
 
 ## [Calendar -- Click Here](https://www.thanghuynh.io/teaching/math18_winter19/calendar/)
@@ -13,6 +15,8 @@ title = "MATH 18 Winter 2019: Linear Algebra"
 ## [Online Homework -- Click Here](https://tritoned.ucsd.edu/)
 
 ## [Offline Homework -- Click Here](https://www.thanghuynh.io/teaching/math18_winter19/homework/)
+
+## [MATLAB -- Click Here](https://www.math.ucsd.edu/~math18/index.html)
 
 ---
 ## Announcements  
