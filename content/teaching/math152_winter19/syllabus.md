@@ -15,7 +15,7 @@ title = "Math 152: Topics in Data Science"
 
 **Catalog Description:** We will cover among other topics (tentative): sampling, finding frequent items, counting distinct elements, general frequency moment estimation, dimensionality reduction, and matrix approximation.
 
-**Textbooks:** There is no course textbook. We will primarily be following [Edo Liberty's course notes](https://edoliberty.github.io/datamining2013a.html), and [Jelani Nelson's](https://www.sketchingbigdata.org/). I will post a reference for each lecture.
+**Textbooks:** There is no course textbook. We will primarily be following [Edo Liberty's course notes](https://edoliberty.github.io/datamining2013a.html), and [Jelani Nelson's](https://www.sketchingbigdata.org/). [Naoki Saito's lecture notes](https://www.math.ucdavis.edu/~saito/courses/167.s17/) is also good preparation for Linear Algebra. I will post a reference for each lecture.
 
   * *Data Stream Algorithms* by Amit Chakrabarti. This course note can be downloaded [here](https://www.cs.dartmouth.edu/~ac/Teach/CS49-Fall11/Notes/lecnotes.pdf)
   * *Mining of Massive Datasets* by Jure Leskovec, Anand Rajaraman, Jeff Ullman. The book can be downloaded [here][mmds]. 
