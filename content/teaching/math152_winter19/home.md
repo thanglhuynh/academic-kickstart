@@ -40,7 +40,7 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
 #### Exams
 
   * Midterm 1: January 30
-  * Midterm 2: February 7
+  * Midterm 2: February 27
   * Final: March 18
 
 ---  
