@@ -27,8 +27,8 @@ title = "MATH 18 Winter 2019: Linear Algebra"
     * Location: AP&M 6341
   * **TA**: Jinjie Zhang
     * Email: <jiz003@ucsd.edu>
-    * Office Hours:
-    * Location:
+    * Office Hours: 4:00PM - 6:00PM on Tuesday
+    * Location: AP&M 6414
   * **TA**: Joseph Gilby
     * Email: <jgilby@ucsd.edu>
     * Office Hours:   
