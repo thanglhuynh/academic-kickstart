@@ -31,7 +31,8 @@ title = "MATH 18 Winter 2019: Linear Algebra"
     * Location: AP&M 6414
   * **TA**: Joseph Gilby
     * Email: <jgilby@ucsd.edu>
-    * Office Hours:   
+    * Office Hours: 7-7:50 PM on Wednesday, and 1-1:50 PM on Fridays
+    * Location: AP&M 5218
   * **TA**: Jay Bonthius
     * Email: <jbonthiu@ucsd.edu>
     * Office Hours: 
