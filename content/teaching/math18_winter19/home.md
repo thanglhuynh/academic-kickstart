@@ -23,16 +23,19 @@ title = "MATH 18 Winter 2019: Linear Algebra"
 
   * **Instructor**: Thang Huynh
     * Email: <tlh007@ucsd.edu>
-    * Office Hours: 9:00AM - 10:30AM on Monday and Friday at AP&M 6341
+    * Office Hours: 9:00AM - 10:30AM on Monday and Friday
+    * Location: AP&M 6341
   * **TA**: Jinjie Zhang
     * Email: <jiz003@ucsd.edu>
-    * Office Hours: 
+    * Office Hours:
+    * Location:
   * **TA**: Joseph Gilby
     * Email: <jgilby@ucsd.edu>
     * Office Hours:   
   * **TA**: Jay Bonthius
     * Email: <jbonthiu@ucsd.edu>
     * Office Hours: 
+    * Location:
 
 --- 
 ## Course Information  
