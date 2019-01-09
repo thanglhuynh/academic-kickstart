@@ -15,7 +15,7 @@ title = "Math 152: Topics in Data Science"
 **Teaching Assistants:**   
 1. Dun Qiu:  
   * *Email:* <duqiu@ucsd.edu>  
-  * * Office Hours: 11:00am - 1:00 pm on Wednesday at AP&M 2000B  
+  * *Office Hours:* 11:00am - 1:00 pm on Wednesday at AP&M 2000B  
 
 --- 
 
