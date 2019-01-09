@@ -29,7 +29,15 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
 #### [Piazza -- Click Here](https://www.piazza.com/ucsd/winter2019/math152)
 
 ---
-#### Announcements:   
+#### Reading:
+
+---
+#### Lecture Notes:   
+
+1. Week 1:
+  * [Introduction](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Intro.pdf)
+  * [Linear Algebra Review 1](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture1.pdf)
+  * [Linear Algebra Review 2](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture2.pdf)
 
 ---
 
