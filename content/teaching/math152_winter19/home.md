@@ -30,6 +30,7 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
 
 ---
 #### Reading:
+1. Week 1: Review Linear Algebra. Read lecture notes for Week 1 and Sections 12.8. in [BHK](https://www.cs.cornell.edu/jeh/book.pdf)
 
 ---
 #### Lecture Notes:   
