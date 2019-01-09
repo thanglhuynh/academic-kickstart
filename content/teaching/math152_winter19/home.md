@@ -5,14 +5,17 @@ title = "Math 152: Topics in Data Science"
 
 #### Contact Information and Office Hours:  
 
-*Instructor:* Thang Huynh  
-*Email:* [tlh007@ucsd.edu][email].    
-*Office Hours:*   
-*Lecture Times:* 	MWF	8:00-8:50am at CENTR 105
+  * *Instructor:* Thang Huynh  
+  * *Email:* <tlh007@ucsd.edu>    
+  * *Office Hours:* 9:00 - 10:30AM on Wednesday at AP&M 6341
+  * *Lecture Times:* 	MWF	8:00-8:50am at CENTR 105
 
 [email]: mailto:tlh007@ucsd.edu
 
 **Teaching Assistants:**   
+1. Dun Qiu:
+  * *Email:* <tlh007@ucsd.edu> 
+  * Office Hours: 11:00am - 1:00 pm on Wednesday at AP&M 2000B 
 
 --- 
 
