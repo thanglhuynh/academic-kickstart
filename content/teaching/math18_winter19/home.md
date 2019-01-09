@@ -35,8 +35,8 @@ title = "MATH 18 Winter 2019: Linear Algebra"
     * Location: AP&M 5218
   * **TA**: Jay Bonthius
     * Email: <jbonthiu@ucsd.edu>
-    * Office Hours: 
-    * Location:
+    * Office Hours: 12-1:00PM on Monday and Wednesday
+    * Location: AP&M 2313
 
 --- 
 ## Course Information  
