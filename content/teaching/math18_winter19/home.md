@@ -36,6 +36,10 @@ title = "MATH 18 Winter 2019: Linear Algebra"
     * Office Hours: 12-1:00PM on Monday and Wednesday
     * Location: AP&M 2313
 
+---
+## Lecture Notes
+1. [Week 1](https://www.thanghuynh.io/teaching/math18_winter19/Math18_Lecture1.pdf)
+
 --- 
 ## Course Information  
   * **Textbook**: The required textbook for this course is *Linear Algebra and its Applications*, w/ MyMathLab, by David C. Lay, Steven R. Lay, and Judi J. McDonald. This is the textbook available at the UC San Diego bookstore. If you choose to purchase it elsewhere, be aware that **you need MyMathLab access**, which is included with the bookstore version of the textbook but not with all versions. **Note**: you may also forego the physical textbook and just purchase a MyMathLab access code directly from MyMathLab the first time you login (see TritonEd below); this includes access to the ebook version of the textbook.  
