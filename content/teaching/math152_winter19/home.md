@@ -12,11 +12,14 @@ title = "Math 152: Topics in Data Science"
 
 [email]: mailto:tlh007@ucsd.edu
 
-**Teaching Assistants:**   
+**Teaching Assistants:**
+
 1. Dun Qiu:  
   * *Email:* <duqiu@ucsd.edu>  
   * *Office Hours:* 11:00am - 1:00 pm on Wednesday at AP&M 2000B  
-
+2. Jiajie Shi 
+  * *Email:* <jis254@ucsd.edu>
+  * *Office Hours:* 2:00pm-4:00pm on Friday at APM 2000B
 --- 
 
 #### [Syllabus -- Click Here](https://www.thanghuynh.io/teaching/math152_winter19/syllabus)
