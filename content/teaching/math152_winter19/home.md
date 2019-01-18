@@ -46,6 +46,9 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
   * [Linear Algebra Review 1](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture1.pdf)
   * [Linear Algebra Review 2](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture2.pdf)
 
+2. Week 2:
+  * [Probability Review](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture3_Probability.pdf)
+
 ---
 
 #### [Homework - Click Here](https://www.thanghuynh.io/teaching/math152_winter19/homework/)
