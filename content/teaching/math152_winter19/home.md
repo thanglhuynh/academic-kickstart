@@ -48,6 +48,9 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
 
 2. Week 2:
   * [Probability Review](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture3_Probability.pdf)
+  
+3. Week 3:
+  * [Chernoff's Bound](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture3_ChernoffBound.pdf)
 
 ---
 
