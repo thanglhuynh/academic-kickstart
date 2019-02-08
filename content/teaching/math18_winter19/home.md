@@ -41,6 +41,7 @@ title = "MATH 18 Winter 2019: Linear Algebra"
 1. [Week 1](https://www.thanghuynh.io/teaching/math18_winter19/Math18_Lecture1.pdf)
 2. [Week 2](https://www.thanghuynh.io/teaching/math18_winter19/Math18_Lecture2.pdf) (Sections 1.4, 1.5, 1.7)
 3. [Week 3](https://www.thanghuynh.io/teaching/math18_winter19/Math18_Lecture3.pdf) (Sections 1.8, 1.9). There was a mistake on page 22. In the example, I got the wrong reduced row echelon form!!!!
+4. [Week 4-5](https://www.thanghuynh.io/teaching/math18_winter19/Math18_Lecture4.pdf) (Sections 2.1, 2.2, 2.3, 4.1)
 
 
 --- 
