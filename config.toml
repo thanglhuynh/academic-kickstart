@@ -333,10 +333,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[menu.main]]
-    name = "Resume"
-    url = "files/Thang_Huynh_Resume.pdf"
-    weight = 4
+# [[menu.main]]
+#    name = "Resume"
+#    url = "files/Thang_Huynh_Resume.pdf"
+#    weight = 4
 
 # Search.
 [params.search]
