@@ -100,8 +100,8 @@ I may adjust the scale to be more lenient, but guarantee that the grade correspo
 
 Your cumulative average will be the best of the following two weighted averages:  
 
-* 25% Midterm 1,  25% Midterm 2, 50% Final Exam
 * 50% Best Midterm, 50% Final Exam
+* 40% Best Midterm, 60% Final Exam
 
 You must pass the final examination in order to pass the course. 
 
