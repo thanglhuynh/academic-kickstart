@@ -16,8 +16,8 @@ weight = 60
 +++
 
 ## Current - Spring 2019 - UCSD
-  * [MATH 20E Spring 2019: Vector Calculus](https://www.thanghuynh.io/teaching/math20e_spring19/home.html)
-  * [MATH 152 Spring 2019: Topics in Data Science](https://www.thanghuynh.io/teaching/math152_spring19/home.html)
+  * [MATH 20E Spring 2019: Vector Calculus](https://www.thanghuynh.io/teaching/math20e_spring2019/home/)
+  * [MATH 152 Spring 2019: Topics in Data Science](https://www.thanghuynh.io/teaching/math152_spring19/home/)
 
   
 ## Winter 2019 - UCSD
