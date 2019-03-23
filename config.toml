@@ -314,14 +314,14 @@ enableGitInfo = false
   identifier = "teaching"
 
 [[menu.main]]
-  name = "Math 18"
-  url = "teaching/math18_winter19/home/"
+  name = "Math 20E"
+  url = "teaching/math20e_spring19/home/"
   weight = 300
   parent = "teaching"
 
 [[menu.main]]
   name = "Math 152"
-  url = "teaching/math152_winter19/home/"
+  url = "teaching/math152_spring19/home/"
   weight = 301
   parent = "teaching"
 
