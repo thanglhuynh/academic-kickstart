@@ -16,7 +16,9 @@ title = "Math 20E: Vector Calculus"
 
 #### [Syllabus]
 
+---
 
+#### [Piazza](https://www.piazza.com/ucsd/spring2019/math20electurea00)
 ---  
 
 #### Teaching Assistants
