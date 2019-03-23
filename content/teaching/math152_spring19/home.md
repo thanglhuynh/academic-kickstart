@@ -1,6 +1,6 @@
 
 +++
-date = 2018-03-23
+date = 2019-03-23
 title = "Math 152: Topics in Data Science"
 +++
 
