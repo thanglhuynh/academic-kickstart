@@ -14,16 +14,20 @@ title = "Math 20E: Vector Calculus"
 
 ---
 
-#### [Syllabus](https://www.thanghuynh.io/teaching/math20e_spring2019/syllabus/)
+#### [Syllabus - Click Here](https://www.thanghuynh.io/teaching/math20e_spring2019/syllabus/)
 
 ---
 
-#### [Calendar](https://www.thanghuynh.io/teaching/math20e_spring2019/calendar/)
+#### [Calendar - Click Here](https://www.thanghuynh.io/teaching/math20e_spring2019/calendar/)
 
 ---
 
-#### [Piazza](https://www.piazza.com/ucsd/spring2019/math20electurea00)
+#### [Piazza - Click Here](https://www.piazza.com/ucsd/spring2019/math20electurea00)
 ---  
+
+#### [Homework - Click Here](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) 
+
+---
 
 #### Teaching Assistants
 
@@ -31,19 +35,13 @@ title = "Math 20E: Vector Calculus"
 
 #### Announcements:
 
-
----
-
-#### Homework and Exams  
-
-
 ---  
 
 #### Course Resources  
 
-[Syllabus][math20eSyl] You are responsible for knowing the information and policies in the syllabus.  
-[Calendar][math20eCal] Important dates for the course in calendar format.  
-[Homework][math20eHW]  
+[Syllabus](https://www.thanghuynh.io/teaching/math20e_spring2019/syllabus/) You are responsible for knowing the information and policies in the syllabus.  
+[Calendar](https://www.thanghuynh.io/teaching/math20e_spring2019/calendar/) Important dates for the course in calendar format.  
+[Homework](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) 
 
 
 ---  
