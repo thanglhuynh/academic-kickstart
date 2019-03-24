@@ -315,7 +315,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Math 20E"
-  url = "teaching/math20e_spring19/home/"
+  url = "teaching/math20e_spring2019/home/"
   weight = 300
   parent = "teaching"
 
