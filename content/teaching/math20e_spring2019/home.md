@@ -14,7 +14,11 @@ title = "Math 20E: Vector Calculus"
 
 ---
 
-#### [Syllabus]
+#### [Syllabus](https://www.thanghuynh.io/teaching/math20e_spring2019/syllabus/)
+
+---
+
+#### [Calendar](https://www.thanghuynh.io/teaching/math20e_spring2019/calendar/)
 
 ---
 
@@ -31,11 +35,6 @@ title = "Math 20E: Vector Calculus"
 ---
 
 #### Homework and Exams  
-
-
----
-
-#### [Calendar]
 
 
 ---  
