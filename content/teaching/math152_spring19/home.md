@@ -1,7 +1,7 @@
 
 +++
 date = 2019-03-23
-title = "Math 152: Topics in Data Science"
+title = "Math 152: Data Mining"
 +++
 
 #### Contact Information and Office Hours:  
