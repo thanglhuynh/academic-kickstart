@@ -20,7 +20,7 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 
 ##### <a name="hmwk1"></a>Homework 1
 
-**Due on Friday, April 12**.
+**Due on Friday, April 12**.  
 *Section 2.3:*  (pg 115)  5, 6, 9, 10, 12, 19, 20, 28  
 *Section 2.5:*  (pg 132)  6, 8, 11, 14, 20, 32, 34  
 *Section 3.2:*  (pg 165)  3, 4, 6  
@@ -30,7 +30,7 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 
 ##### <a name="hmwk2"></a>Homework 2  
 
-**Due on Friday, April 19**.
+**Due on Friday, April 19**.  
 *Section 5.2:*  (pg 282)  1d, 2c, 7, 8, 9, 17  
 *Section 5.3:*  (pg 288)  4ad, 7, 8, 11, 15  
 *Section 5.4:*  (pg 293)  3ac, 4ac, 7, 10, 14, 15  
@@ -40,7 +40,7 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 
 ##### <a name="hmwk3"></a>Homework 3  
 
-**Due on Friday, April 26**.
+**Due on Friday, April 26**.  
 *Section 6.1:*  (pg 313)  3, 5, 9, 11  
 *Section 6.2:*  (pg 326)  1, 3, 7, 11, 13, 15, 24, 26  
 *Section 4.3:*  (pg 243)  4, 5, 9, 10, 12, 15, 16  
@@ -49,7 +49,7 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 
 ##### <a name="hmwk4"></a>Homework 4  
 
-**Due on Friday, May 3**.
+**Due on Friday, May 3**.  
 *Section 7.1:*  (pg 356)  1, 4, 6, 7, 11, 12, 19, 27  
 *Section 7.2:*  (pg 373)  3bc, 4, 11, 13, 17  
 
@@ -57,7 +57,7 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 
 ##### <a name="hmwk5"></a>Homework 5
 
-**Due on Friday, May 10**.
+**Due on Friday, May 10**.  
 *Section 7.3:*  (pg 381)  1, 2, 4, 5, 9, 13, 19  
 *Section 7.4:*  (pg 391)  1, 5, 9, 17, 21, 23, 24  
 
@@ -65,7 +65,7 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 
 ##### <a name="hmwk6"></a>Homework 6  
 
-**Due on Friday, May 24**.
+**Due on Friday, May 24**.  
 *Section 7.5:*  (pg 398)  3, 5, 6, 7, 12, 15, 19  
 *Section 7.6:*  (pg 411)  1, 2, 3, 5, 9 (use \\[\Delta\times \overrightarrow{F} = 2x^2yz\overrightarrow{i} - 3x^2y^2z \overrightarrow{j} - 2 \overrightarrow{k}\\]), 11, 15, 19  
 *Section 8.1:*  (pg 437)  6, 7, 9, 13, 15, 19, 20, 23  
@@ -76,7 +76,7 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 
 ##### <a name="hmwk6"></a>Homework 7  
 
-**Due on Friday, June 7**.
+**Due on Friday, June 7**.  
 *Section 4.4:*  (pg 258)  3, 9, 15, 19, 34, 36, 38, 39  
 *Section 8.2:*  (pg 450)  8, 11, 13, 15, 19 (compare exercise 7.6.9), 31, 33  
 *Section 8.4:*  (pg 474)  5, 7, 11, 14, 15, 19, 29  
