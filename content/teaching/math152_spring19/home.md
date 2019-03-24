@@ -26,14 +26,18 @@ title = "Math 152: Topics in Data Science"
 #### [Syllabus -- Click Here](https://www.thanghuynh.io/teaching/math152_spring19/syllabus)
 
 ---
+
+#### [Calendar -- Click Here](https://www.thanghuynh.io/teaching/math152_spring19/calendar)
+
+--- 
+#### [Piazza -- Click Here](https://www.piazza.com/ucsd/spring2019/math152)
+
+---
 #### Catalog Description: 
 We will cover among other topics (tentative): sampling, finding frequent items, counting distinct elements, general frequency moment estimation, finding frequent item sets, dimensionality reduction, and matrix approximation.
 
 Textbooks: There is no course textbook. We will primarily be following [Edo Liberty's course notes](https://edoliberty.github.io/datamining2013a.html), and [Jelani Nelson's](https://www.sketchingbigdata.org/). I will post a reference for each lecture.
 
-
---- 
-#### [Piazza -- Click Here](https://www.piazza.com/ucsd/spring2019/math152)
 
 ---
 #### Lecture Notes:   
@@ -48,9 +52,9 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
 
 #### Exams
 
-  * Midterm 1: 
-  * Midterm 2: 
-  * Final: 
+  * Midterm 1: April 26
+  * Midterm 2: May 24
+  * Final: June 14
 
 ---  
 
