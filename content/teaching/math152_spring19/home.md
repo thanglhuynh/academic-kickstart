@@ -19,7 +19,7 @@ title = "Math 152: Data Mining"
   * *Email:* <duqiu@ucsd.edu>  
   * *Office Hours:* 
 2. Jiajie Shi 
-  * *Email:* <jis254@ucsd.edu>
+  * *Email:* <xit039@ucsd.edu>
   * *Office Hours:* 
 --- 
 
