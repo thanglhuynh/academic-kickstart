@@ -18,7 +18,7 @@ title = "Math 152: Data Mining"
 1. Dun Qiu:  
   * *Email:* <duqiu@ucsd.edu>  
   * *Office Hours:* 
-2. Jiajie Shi 
+2. Xindong Tang  
   * *Email:* <xit039@ucsd.edu>
   * *Office Hours:* 
 --- 
