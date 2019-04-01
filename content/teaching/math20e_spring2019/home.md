@@ -29,7 +29,15 @@ title = "Math 20E: Vector Calculus"
 
 ---
 
-#### Teaching Assistants
+#### Teaching Assistants  
+
+1. Juan Castillejos-Garcia:  
+  * *Email:* <jjc039@ucsd.edu>  
+  * *Office Hours:* 
+2. Zequn Zheng	  
+  * *Email:* <zez084@ucsd.edu>
+  * *Office Hours:* 
+
 
 --- 
 
