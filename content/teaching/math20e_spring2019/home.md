@@ -36,7 +36,7 @@ title = "Math 20E: Vector Calculus"
   * *Office Hours:* 
 2. Zequn Zheng	  
   * *Email:* <zez084@ucsd.edu>
-  * *Office Hours:* 
+  * *Office Hours:* 2-4pm on Monday, 3:30-5:30pm on Teusday at AP&M 6436B
 
 
 --- 
