@@ -33,10 +33,10 @@ title = "Math 20E: Vector Calculus"
 
 1. Juan Castillejos-Garcia:  
   * *Email:* <jjc039@ucsd.edu>  
-  * *Office Hours:* 
+  * *Office Hours:* 4pm - 6pm on Friday at AP&M 7218
 2. Zequn Zheng	  
   * *Email:* <zez084@ucsd.edu>
-  * *Office Hours:* 2-4pm on Monday, 3:30-5:30pm on Teusday at AP&M 6436B
+  * *Office Hours:* 2pm - 4pm on Monday, 3:30pm - 5:30pm on Tuesday at AP&M 6436B
 
 
 --- 
