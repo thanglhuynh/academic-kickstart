@@ -7,7 +7,7 @@ title = "Math 20E: Vector Calculus"
 
   * *Instructor:* Thang Huynh  
   * *Email:* <tlh007@ucsd.edu>    
-  * *Office Hours:* 
+  * *Office Hours:* 1pm - 2pm on MWF at AP&M 6341
   * *Lecture Times:* 	MWF	10:00-10:50am at WLH 2005
 
 [email]: mailto:tlh007@ucsd.edu
