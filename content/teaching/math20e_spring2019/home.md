@@ -41,7 +41,9 @@ title = "Math 20E: Vector Calculus"
 
 --- 
 
-#### Announcements:
+#### Lecture Notes:  
+
+  * [Week 1](https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_Lecture1.pdf) (Section 2.3 and 2.5)
 
 ---  
 
