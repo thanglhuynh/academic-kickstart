@@ -21,7 +21,7 @@ title = "Math 20E: Vector Calculus"
 
 **Reading:** Reading the sections of the textbook corresponding to the assigned homework exercises is considered part of the homework assignment; you are responsible for material in the assigned reading whether or not it is discussed in the lecture. It will be expected that you read the assigned material in advance of each lecture.
 
-**Homework:** Homework will be assigned on the course homework page and should be completed by 5 pm on the indicated due date. Your completed homework assignments should be submitted into the homework dropbox (located in the basement of AP&M) labeled 20E and your TA’s name. Your worst homework score will be dropped. Before you submit, make sure to staple your work and have your name, ID number and section number written clearly on top of the front page. Late homework will not be accepted.
+**Homework:** Homework will be assigned on the course homework page and should be completed by 11:59pm on the indicated due date. To submit your homework, [click here to see the instruction](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/). *Late homework will not be accepted.*
 
 **Midterm Exams:** There will be two (2) midterm exams. (See also the course [calendar](https://www.thanghuynh.io/teaching/math20e_spring2019/calendar/)). You may bring a ONE SIDED 8.5 by 11 inch handwritten sheet of notes with you to each midterm exam. No calculators will be allowed.  There will be no makeup exams.
 
