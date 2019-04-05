@@ -8,7 +8,7 @@ title = "Math 152: Data Mining"
 
   * *Instructor:* Thang Huynh  
   * *Email:* <tlh007@ucsd.edu>    
-  * *Office Hours:* 
+  * *Office Hours:* MWF 12:00pm - 1:00 pm at AP&M 6341
   * *Lecture Times:* 	MWF	8:00-8:50am at CENTR 105
 
 [email]: mailto:tlh007@ucsd.edu
@@ -17,10 +17,10 @@ title = "Math 152: Data Mining"
 
 1. Dun Qiu:  
   * *Email:* <duqiu@ucsd.edu>  
-  * *Office Hours:* 
+  * *Office Hours:* 11am - 1pm on Thursday at AP&M 2000B
 2. Xindong Tang  
   * *Email:* <xit039@ucsd.edu>
-  * *Office Hours:* 
+  * *Office Hours:* 2-4 pm on Monday at AP&M 6303
 --- 
 
 #### [Syllabus -- Click Here](https://www.thanghuynh.io/teaching/math152_spring19/syllabus)
