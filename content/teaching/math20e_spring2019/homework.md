@@ -1,7 +1,7 @@
 #### Homework  
 ---  
 
-In order to submit your document, you need to be enrolled in this course at [Gradescope](https://www.gradescope.com/courses/45768). This should happen automatically during the first week. However, if at the end of week 1 you do not yet have access to the class's Gradescope page, you should contact your regular discussion section TA and explain the situation. Give them your name, UCSD email address, and PID, and they'll be able to add you to the course manually.
+In order to submit your homework assignments, you need to be enrolled in this course at [Gradescope](https://www.gradescope.com/courses/45768). This should happen automatically during the first week. However, if at the end of week 1 you do not yet have access to the class's Gradescope page, you should contact your regular discussion section TA and explain the situation. Give them your name, UCSD email address, and PID, and they'll be able to add you to the course manually.
 
 To turn in your work, your document needs to be in **PDF format**. If you're using Word, once you've saved your document, you can export it as a PDF in the *File ❯ Export menu*; alternatively, you can go to *File ❯ Save As* and choose "PDF" in the drop-down menu near the bottom. Once you've done this, open the Math 20E course on Gradescope, find corresponding Assignment, and submit your PDF for this assignment.
 
