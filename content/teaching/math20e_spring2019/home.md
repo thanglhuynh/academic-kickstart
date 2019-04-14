@@ -51,7 +51,7 @@ title = "Math 20E: Vector Calculus"
 
 #### Homework and Exams:  
 
-  * **Exam 1.** In class, *Friday, April 26*. (covers Sections 2.3, 2.5, 5.1 - 5.5, 6.1, 6.2, 4.3, and 7.1)
+  * **Exam 1.** In class, *Friday, April 26*. (covers Sections 2.3, 2.5, 5.1 - 5.5, 6.1, 6.2, 4.3, and 7.1). [Click here for some old exams (from S12, S13, F14, W16, W17, F17)] (https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_OldMidterm1.pdf) . 
   * [Homework 2](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) Due on **Friday 19**. 
   * [Homework 1](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) Due on **Friday 12**.  
   * [Homework 0](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) DO NOT hand this homework in, this is for you to review some material we'll be using.
