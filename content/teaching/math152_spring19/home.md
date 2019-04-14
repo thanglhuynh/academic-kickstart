@@ -46,6 +46,9 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
   * [Introduction](https://www.thanghuynh.io/teaching/math152_spring19/Math152_Intro.pdf)  
   * [Linear Algebra Review](https://www.thanghuynh.io/teaching/math152_spring19/Math152_Lecture1.pdf)  
   * [Big O Notation](https://en.wikipedia.org/wiki/Big_O_notation): Read Introduction, Definition, Example, and Usage Parts.
+  
+2. Week 2:  
+  * [Probability](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture3_Probability.pdf)
 
 ---
 
