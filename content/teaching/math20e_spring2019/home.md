@@ -51,6 +51,7 @@ title = "Math 20E: Vector Calculus"
 
 #### Homework and Exams:  
 
+  * [Homework 2](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) Due on **Friday 19**. 
   * [Homework 1](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) Due on **Friday 12**.  
   * [Homework 0](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) DO NOT hand this homework in, this is for you to review some material we'll be using.
 
