@@ -61,7 +61,8 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
 
 #### Exams
 
-  * Midterm 1: April 26
+  * Midterm 1: April 26. Cover Linear Algebra (Week 1); Basic probability (Week 2-3); Probabilistic Inequalities: Markov's, Chebyshev's, and Chernoff's (Week 3-4). [Click here for an old exam](https://www.thanghuynh.io/teaching/math152_spring19/Midterm_VerA.pdf)    
+  
   * Midterm 2: May 24
   * Final: June 14
 
