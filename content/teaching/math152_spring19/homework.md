@@ -3,5 +3,5 @@ date = 2019-03-23
 title = "Math 152: Homework Assignments"
 +++
 
-  * [Homework 1 -- Linear Algebra Review](https://www.thanghuynh.io/teaching/math152_spring19/Math152_HW1.pdf) and [solution](https://www.thanghuynh.io/teaching/math152_spring19/Math152_HW1_Solution.pdf)
-  * [Homework 2 -- Probability](https://www.thanghuynh.io/teaching/math152_spring19/Math152_HW2.pdf)  
+  * [Homework 1 -- Linear Algebra Review](https://www.thanghuynh.io/teaching/math152_spring19/Math152_HW1.pdf) and [solution](https://www.thanghuynh.io/teaching/math152_spring19/Math152_HW1_Solution.pdf)  
+  * [Homework 2 -- Probability](https://www.thanghuynh.io/teaching/math152_spring19/Math152_HW2.pdf) and [solution](https://www.thanghuynh.io/teaching/math152_spring19/Math152_HW2_Solution.pdf)  
