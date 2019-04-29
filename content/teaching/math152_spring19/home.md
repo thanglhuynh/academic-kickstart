@@ -52,6 +52,9 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
 
 3. Week 3 and 4:  
   * [Chernoff's Bound](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture3_ChernoffBound.pdf)
+  
+4. Week 5:
+  * [Data Stream](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture4.pdf)
 
 ---
 
