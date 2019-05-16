@@ -56,6 +56,8 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
 4. Week 5 and 6:
   * [Data Stream](https://www.thanghuynh.io/teaching/math152_spring19/Math152_Lecture4.pdf)
 
+5. Week 7 and 8:
+  * [SVD](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture5_SVD.pdf) 
 ---
 
 #### [Homework - Click Here](https://www.thanghuynh.io/teaching/math152_spring19/homework/)
@@ -64,9 +66,10 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
 
 #### Exams
 
+  * Midterm 2: May 24. Probabilistic Inequalities: Markov's, Chebyshev's, and Chernoff's (Week 3-4); Data Stream (Week 5-6); SVD (Week 7-8) [Click here for an old exam](https://www.thanghuynh.io/teaching/math152_spring19/Midterm2_VerA.pdf)    
+  
   * Midterm 1: April 26. Cover Linear Algebra (Week 1); Basic probability (Week 2-3); Probabilistic Inequalities: Markov's, Chebyshev's, and Chernoff's (Week 3-4). [Click here for an old exam](https://www.thanghuynh.io/teaching/math152_spring19/Midterm_VerA.pdf)    
   
-  * Midterm 2: May 24
   * Final: June 14
 
 ---  
