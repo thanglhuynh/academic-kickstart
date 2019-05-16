@@ -57,7 +57,8 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
   * [Data Stream](https://www.thanghuynh.io/teaching/math152_spring19/Math152_Lecture4.pdf)
 
 5. Week 7 and 8:
-  * [SVD](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture5_SVD.pdf) 
+  * [SVD](https://www.thanghuynh.io/teaching/math152_winter19/Math152_Lecture5_SVD.pdf)  
+  
 ---
 
 #### [Homework - Click Here](https://www.thanghuynh.io/teaching/math152_spring19/homework/)
