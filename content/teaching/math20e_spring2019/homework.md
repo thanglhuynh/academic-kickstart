@@ -73,7 +73,7 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 
 **Due on Friday, May 17**.  
 *Section 7.5:*  (pg 398)  3, 5, 6, 7, 12, 15, 19  
-*Section 7.6:*  (pg 411)  1, 2, 3, 5, 9 (use \\[\Delta\times \overrightarrow{F} = 2x^2yz\overrightarrow{i} - 3x^2y^2z \overrightarrow{j} - 2 \overrightarrow{k}\\]), 11, 15, 19  
+*Section 7.6:*  (pg 411)  1, 2, 3, 5, 9 (use \\[\nabla\times \overrightarrow{F} = 2x^3yz\overrightarrow{i} - 3x^2y^2z \overrightarrow{j} - 2 \overrightarrow{k}\\]), 11, 15, 19  
 
 
 ---  
