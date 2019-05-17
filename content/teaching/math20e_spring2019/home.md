@@ -56,7 +56,8 @@ title = "Math 20E: Vector Calculus"
 #### Homework and Exams:  
 
    * **Exam 2.** In class, *Friday, May*. (covers Sections 2.3, 2.5, 3.2, 4.3, 5.1 - 5.5, 6.1, 6.2, 7.1 - 7.6, 8.1, 8.2, 4.4, **with an emphasis on 7.1 - 7.6, 8.1 and 8.2**). [Click here for some old exams (from S12, S13, F14, W16, W17, F17)]  (https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_OldMidterm2.pdf).  
-  * [Homework 5](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) Due on **Friday, May 10**.
+  * [Homework 6](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) Due on **Friday, May 17**.  
+  * [Homework 5](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) Due on **Friday, May 10**.  
   * [Homework 4](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) Due on **Friday, May 3**. 
   * [Homework 3](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) Due on **Friday, April 26**.  
   * **Exam 1.** In class, *Friday, April 26*. (covers Sections 2.3, 2.5, 5.1 - 5.5, 6.1, 6.2, 4.3, and 7.1). [Click here for my old exam - Fall 2016](https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_OldMidterm1_F16.pdf) and [solution](https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_OldMidterm1_F16_Solution.pdf); and [Click here for some old exams (from S12, S13, F14, W16, W17, F17)] (https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_OldMidterm1.pdf) and [solution](https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_OldMidterm1_Solutions.pdf) (Thanks Prof. Justin Roberts). 
