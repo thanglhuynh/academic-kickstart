@@ -79,7 +79,7 @@ Review **(NOT to be turned in)** These topics were covered in Math 20C. You are 
 ---  
 ##### <a name="hmwk7"></a>Homework 7  
 
-**Due on Friday, May 24**.  
+**Due on Friday, May 31**.  
 *Section 8.1:*  (pg 437)  6, 7, 9, 13, 15, 19, 20, 23  
 *Section 4.4:*  (pg 258)  3, 9, 15, 19, 34, 36, 38, 39  
 *Section 8.2:*  (pg 450)  8, 11, 13, 15, 19 (compare exercise 7.6.9), 31, 33  
