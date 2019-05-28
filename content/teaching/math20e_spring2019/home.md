@@ -50,6 +50,7 @@ title = "Math 20E: Vector Calculus"
   * [Week 4-5](https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_Lecture4_5.pdf) (Section 7.2, 7.3 and 7.4)
   * [Week 6](https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_Lecture6.pdf) (Section 7.5 and 7.6)  
   * [Week 7-8](https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_Lecture7.pdf) (Section 8.1, 8.2 and 4.4)  
+  * [Week 9-10](https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_Lecture8910.pdf) (Section 8.4, and 8.3)  
   
 ---  
 
