@@ -70,7 +70,7 @@ Textbooks: There is no course textbook. We will primarily be following [Edo Libe
 
 #### Exams
 
-  * Final: June 14. [Click here for an old exam](https://www.thanghuynh.io/teaching/math152_spring19/Final_VerA.pdf)
+  * Final: June 14. It is a cumulative exam. [Click here for an old exam](https://www.thanghuynh.io/teaching/math152_spring19/Final_VerA.pdf)
 
   * Midterm 2: May 24. Probabilistic Inequalities: Markov's, Chebyshev's, and Chernoff's (Week 3-4); Data Stream (Week 5-6); SVD (Week 7-8) [Click here for an old exam](https://www.thanghuynh.io/teaching/math152_spring19/Midterm2_VerA.pdf)    
   
