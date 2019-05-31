@@ -56,6 +56,8 @@ title = "Math 20E: Vector Calculus"
 
 #### Homework and Exams:  
 
+   * Practice Final: [Fall 16](https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_OldFinal_F16.pdf), [Spring 12](https://www.thanghuynh.io/teaching/math20e_spring2019/math20E-S12-final.pdf), [Spring 13](https://www.thanghuynh.io/teaching/math20e_spring2019/math20E-S13-final.pdf), [Fall 14](https://www.thanghuynh.io/teaching/math20e_spring2019/math20E-F14-final.pdf)
+   * The Final Examination is **cumulative* and covers Sections 2.3, 2.5, 4.3, 4.4, 5.1 - 5.5, 6.1, 6.2, 7.1 - 7.6, and 8.1 - 8.4.
    * [Homework 7](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) Due on **Friday, May 31**.  
    * **Exam 2.** In class, *Friday, May*. (covers Sections 2.3, 2.5, 4.3, 5.1 - 5.5, 6.1, 6.2, 7.1 - 7.6, 8.1, 8.2, 4.4, **with an emphasis on 7.1 - 7.6, 8.1 and 8.2**). [Click here for some old exams (from S12, S13, F14, W16, W17, F17)]  (https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_OldMidterm2.pdf); and [Click here for my old class exam - Fall 2016](https://www.thanghuynh.io/teaching/math20e_spring2019/math20e_OldMidterm2_F16.pdf) (there is an error on Problem 3. Can you catch it?)
   * [Homework 6](https://www.thanghuynh.io/teaching/math20e_spring2019/homework/) Due on **Friday, May 17**.  
