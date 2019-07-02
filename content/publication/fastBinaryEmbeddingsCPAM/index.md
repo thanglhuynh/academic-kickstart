@@ -1,6 +1,6 @@
 +++
 title = "Fast binary embeddings, and quantized compressed sensing with structured matrices"
-date = 2018-07-18T00:00:00
+date = 2019-07-2T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
