@@ -49,8 +49,8 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21850"
-url_preprints = "https://arxiv.org/abs/1801.08639"
+url_pdf = "https://arxiv.org/pdf/1801.08639.pdf"
+url_preprint = "https://arxiv.org/abs/1801.08639"
 url_code = ""
 url_dataset = ""
 url_project = ""
