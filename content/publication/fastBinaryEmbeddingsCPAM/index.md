@@ -18,7 +18,7 @@ authors = ["Thang Huynh", "Rayan Saab"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Communications on Pure and Applied Mathematics*"
+publication = "[Communications on Pure and Applied Mathematics](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21850)"
 publication_short = "*CPAM*"
 
 # Abstract and optional shortened version.
@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21850"
-url_arxiv = "https://arxiv.org/abs/1801.08639"
+url_preprints = "https://arxiv.org/abs/1801.08639"
 url_code = ""
 url_dataset = ""
 url_project = ""
